@@ -1,0 +1,20 @@
+# Persönliche Obsidian-Konfiguration nicht ins Repo aufnehmen
+.obsidian/
+
+# Systemdateien
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup-Dateien
+*.bak
+*.tmp
+*.swp
+~$*
+
+# Git-spezifisches
+*.orig
+
+# Optional: temporäre ZIPs oder Exporte ignorieren
+*.zip
+export/
