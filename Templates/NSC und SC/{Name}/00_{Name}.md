@@ -1,5 +1,5 @@
 Typ: #sc #nsc
-Rasse: #mensch
+Spezies: #mensch
 Rollenfunktion: #antagonist #mentor #kontakt #widersacher #begleiter 
 Quest Zugehörigkeit: HIER_VERLINKEN
 Regionale Zuordnung:
