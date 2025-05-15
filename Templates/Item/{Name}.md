@@ -1,6 +1,6 @@
 Typ: #item
 Kategorie: #waffe #rüstung #trank #artefakt #ausrüstung
-rarität: #gewöhnlich #ungewöhnlich #selten #einzigartig
+Rarität: #gewöhnlich #ungewöhnlich #selten #einzigartig
 Vorbesitzer: HIER_VERLINKEN
 Besitzer: HIER_VERLINKEN
 Fundort: HIER_VERLINKEN

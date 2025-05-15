@@ -1,7 +1,7 @@
 Typ: #sc #nsc
 Rasse: #mensch
 Rollenfunktion: #antagonist #mentor #kontakt #widersacher #begleiter 
-Questzugehörigkeit: HIER_VERLINKEN
+Quest Zugehörigkeit: HIER_VERLINKEN
 Regionale Zuordnung:
 Status: #lebend #tot #vermisst #unbekannt
 Erster Kontakt:
