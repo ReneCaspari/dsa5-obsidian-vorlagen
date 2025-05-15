@@ -1,3 +1,25 @@
+#### 📊 Statuswerte
+
+- **Lebensenergie (LE):** `0/0`
+- **Astralenergie (AsP):** `0/0` _(falls Magiebegabt)_
+- **Initiative (INI):** `__`
+- **Schicksalspunkte (SKP):** `3/3`
+
+---
+
+#### 💥 Regeneration
+
+- **Regeneration (LE/AsP pro Nacht):** `__ / __
+
+---
+
+#### 🎯 Aktionen & Effekte (optional)
+
+Hier kannst du spontane Zustände, Buffs/Debuffs oder Zaubereffekte kurz notieren.
+
+
+---
+
 | Zustand         | I   | II  | III | IV  | Status           |                                    |              |                                    |
 | --------------- | --- | --- | --- | --- | ---------------- | ---------------------------------- | ------------ | ---------------------------------- |
 | Animosität      |     |     |     |     | Bewegungsunfähig | <input type="checkbox" unchecked/> | Pechmagnet   | <input type="checkbox" unchecked/> |
