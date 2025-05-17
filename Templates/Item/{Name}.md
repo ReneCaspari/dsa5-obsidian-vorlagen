@@ -8,7 +8,7 @@ Magisch: #magisch #nichtmagisch
 Status: #intakt #beschädigt #verbraucht
 Gewicht: 0.5 Stein
 Wert: 35 Dukaten
-Material: Stahl
+Material: #stahl
 Legalität: #legal #fragwürdig #verboten
 
 ---
