@@ -16,10 +16,6 @@ Kämpfe: HIER_VERLINKEN
 TEXT
 
 ---
-## INHALT
-TEXT
-
----
 
 ## Szene 1: {Beschreibung}
 TEXT
