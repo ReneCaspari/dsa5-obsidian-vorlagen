@@ -9,7 +9,19 @@
 
 #### 💥 Regeneration
 
-- **Regeneration (LE/AsP pro Nacht):** `__ / __
+Grund Regeneration 1W6
+
+| Modifikator                                                  | Wirkung auf Regeneration (LEP) |
+| ------------------------------------------------------------ | ------------------------------ |
+| Schlechter Schlafplatz (z. B. hart, feucht)                  | –1 LEP                         |
+| Kleine Unterbrechung (z. B. kurz wach)                       | –1 LEP                         |
+| Schlechte Umgebung (z. B. laut, kalt)                        | –1 LEP                         |
+| Extrem schlechte Umgebung (z. B. Schlachtfeld, kalter Regen) | –2 LEP                         |
+| Große Unterbrechung (z. B. Kampf)                            | –2 LEP                         |
+| Vergiftet oder krank                                         | Keine Regeneration             |
+| Einzelzimmer in guter Unterkunft                             | +1 LEP                         |
+| Pro 2 Stein Eisen, das getragen wird                         | –1 ASP-Regeneration            |
+
 
 ---
 
