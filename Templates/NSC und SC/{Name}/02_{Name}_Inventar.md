@@ -1,4 +1,4 @@
-### **Geldbeutel**
+### 💰 **Geldbeutel**
 
 | Münze             | Wert in der nächstkleineren Einheit  | Beispiel              |
 | ----------------- | ------------------------------------ | --------------------- |
@@ -9,9 +9,10 @@
 
 | Dukaten | Silbertaler | Heller | Kreuzer |
 | ------- | ----------- | ------ | ------- |
-|         | 500         |        |         |
+|         |             |        |         |
+|         |             |        |         |
 
-### **Inventar**
+### 💰 **Inventar**
 
 ```dataviewjs
 const items = [

@@ -1,7 +1,7 @@
 #### 📊 Statuswerte
 
 - **Lebensenergie (LE):** `0/0`
-- **Astralenergie (AsP):** `0/0` _(falls Magiebegabt)_
+- **Astralenergie (AsP):** `0/0`
 - **Initiative (INI):** `__`
 - **Schicksalspunkte (SKP):** `3/3`
 
